@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963660984946",
+    "project_id": "campamentoe-d988a",
+    "storage_bucket": "campamentoe-d988a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963660984946:android:8b377f53cc06117d9f88eb",
+        "android_client_info": {
+          "package_name": "com.Js.campamento_estelar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963660984946-ghgpoej75ak9kdkfkmtho5ru1r05tjmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC625bx5LYb4CWwb-dICjRPZlrI8_4L4xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963660984946-ghgpoej75ak9kdkfkmtho5ru1r05tjmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
